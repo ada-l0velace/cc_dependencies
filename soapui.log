@@ -1,0 +1,5 @@
+2019-04-02 05:25:44,134 WARN  [DefaultSoapUICore] Missing folder [/home/evilgod/ext] for external libraries
+2019-04-02 05:25:44,584 INFO  [DefaultSoapUICore] initialized soapui-settings from [/home/evilgod/soapui-settings.xml]
+2019-04-02 05:25:45,842 INFO  [WorkspaceImpl] Loading workspace from [/home/evilgod/intellij-soapui-workspace.xml]
+2019-04-02 06:16:21,143 INFO  [WorkspaceImpl] Saved workspace to [/home/evilgod/intellij-soapui-workspace.xml]
+2019-04-02 06:16:21,147 INFO  [DefaultSoapUICore] Settings saved to [/home/evilgod/soapui-settings.xml]
